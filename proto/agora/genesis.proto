@@ -1,9 +1,0 @@
-syntax = "proto3";
-package jdieter31.agora.agora;
-
-option go_package = "github.com/jdieter31/agora/x/agora/types";
-
-// GenesisState defines the capability module's genesis state.
-message GenesisState {
-}
-
